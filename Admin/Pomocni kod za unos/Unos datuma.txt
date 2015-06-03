@@ -1,0 +1,6 @@
+<div class="control-group">
+							  <label class="control-label" for="date01">Date input</label>
+							  <div class="controls">
+								<input type="text" class="input-xlarge datepicker" id="date01" value="02/16/12">
+							  </div>
+							</div>
