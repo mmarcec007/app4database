@@ -1,2 +1,2 @@
 # app4database
-Web app for watching customers of an internet provider.
+This web app is still in development. Here are examples how to use MySQL queries in PHP.   
